@@ -1,0 +1,120 @@
+C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Register_File.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Register_File.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Register_for_sp.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Register_for_sp.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Register_for_sp
+
+Top level modules:
+	Register_for_sp
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Register.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Register.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Adder_32_Bits.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Adder_32_Bits.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Adder_32_Bits
+
+Top level modules:
+	Adder_32_Bits
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Immediate_Unit.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Immediate_Unit.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Immediate_Unit
+
+Top level modules:
+	Immediate_Unit
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/PC_Register.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/PC_Register.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module PC_Register
+
+Top level modules:
+	PC_Register
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Program_Memory.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Program_Memory.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Program_Memory
+
+Top level modules:
+	Program_Memory
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Decoder_Register_File.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Decoder_Register_File.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Decoder_Register_File
+
+Top level modules:
+	Decoder_Register_File
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/ALU_Control.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/ALU_Control.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module ALU_Control
+
+Top level modules:
+	ALU_Control
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/RISC_V_Single_Cycle_TB.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/RISC_V_Single_Cycle_TB.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module RISC_V_Single_Cycle_TB
+
+Top level modules:
+	RISC_V_Single_Cycle_TB
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/MUX_Register_File.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/MUX_Register_File.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module MUXRegisterFile
+
+Top level modules:
+	MUXRegisterFile
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/RISC_V_Single_Cycle.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/RISC_V_Single_Cycle.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module RISC_V_Single_Cycle
+
+Top level modules:
+	RISC_V_Single_Cycle
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Branch_Control.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Branch_Control.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Branch_Control
+
+Top level modules:
+	Branch_Control
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Multiplexer_2_to_1.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Multiplexer_2_to_1.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Multiplexer_2_to_1
+
+Top level modules:
+	Multiplexer_2_to_1
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Control.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Control.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/ALU.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/ALU.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Data_Memory.v {1 {vlog -work work -vopt -stats=none C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_quartus/Data_Memory.v
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}}

@@ -1,0 +1,47 @@
+# Compile of Adder_32_Bits.v was successful.
+# Compile of ALU.v was successful.
+# Compile of ALU_Control.v was successful.
+# Compile of Branch_Control.v was successful.
+# Compile of Control.v was successful.
+# Compile of Data_Memory.v was successful.
+# Compile of Decoder_Register_File.v was successful.
+# Compile of Immediate_Unit.v was successful.
+# Compile of Multiplexer_2_to_1.v was successful.
+# Compile of MUX_Register_File.v was successful.
+# Compile of PC_Register.v was successful.
+# Compile of Program_Memory.v was successful.
+# Compile of Register.v was successful.
+# Compile of Register_File.v was successful.
+# Compile of RISC_V_Single_Cycle.v was successful.
+# Compile of RISC_V_Single_Cycle_TB.v was successful.
+# Compile of Register_for_sp.v was successful.
+# 17 compiles, 0 failed with no errors.
+# Optimization canceled
+vsim work.RISC_V_Single_Cycle_TB -voptargs=+acc
+# vsim work.RISC_V_Single_Cycle_TB -voptargs="+acc" 
+# Start time: 19:43:15 on Nov 02,2022
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# Loading work.RISC_V_Single_Cycle_TB(fast)
+# Loading work.RISC_V_Single_Cycle(fast)
+# Loading work.Control(fast)
+# Loading work.PC_Register(fast)
+# Loading work.Program_Memory(fast)
+# Loading work.Adder_32_Bits(fast)
+# Loading work.Register_File(fast)
+# Loading work.Decoder_Register_File(fast)
+# Loading work.Register(fast)
+# Loading work.Register_for_sp(fast)
+# Loading work.MUXRegisterFile(fast)
+# Loading work.Immediate_Unit(fast)
+# Loading work.Multiplexer_2_to_1(fast)
+# Loading work.ALU_Control(fast)
+# Loading work.ALU(fast)
+# Loading work.Data_Memory(fast)
+# Loading work.Branch_Control(fast)
+do C:/PROJECTS/PROJECTS/RISC_V_Syngle_Cycle/proj_modelsim/wave.do
+run
+run
+run
+run
+# End time: 19:46:31 on Nov 02,2022, Elapsed time: 0:03:16
+# Errors: 0, Warnings: 3
